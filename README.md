@@ -1,6 +1,8 @@
 # Rule Parser
 Rule Parser is a simple fun tool for parsing rules of the form `(AxN XOR CxM OR BxW) AND ((DxW AND ExT) OR DxM)`.
 
+[![Build Status](https://travis-ci.org/zorbasd/Rule-Parser.svg?branch=master)](https://travis-ci.org/zorbasd/Rule-Parser)
+
 ## Instructions
 Given the following input:
 
